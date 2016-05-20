@@ -1,0 +1,17 @@
+{
+  "name": "raspi-max31865-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Gruber",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pug": "^2.0.0-alpha7",
+    "socket.io": "^1.4.6",
+    "zmq": "^2.15.1"
+  }
+}
